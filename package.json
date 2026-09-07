@@ -1,0 +1,17 @@
+{
+  "name": "com.storyengine.story2d",
+  "version": "1.0.0",
+  "displayName": "Story Engine 2D",
+  "description": "Data-driven story engine for 2D visual novels and choice-driven games: dialogues, choices, conditions, attributes, backgrounds, endings, saves, editor tools.",
+  "unity": "2021.3",
+  "keywords": ["story", "dialogue", "visual-novel", "narrative", "choice-driven"],
+  "author": { "name": "Your Studio", "url": "https://example.com" },
+  "documentationUrl": "https://example.com/docs",
+  "samples": [
+    {
+      "displayName": "Full Sample Story",
+      "description": "Generated showcase story with attributes, conditions, effects, backgrounds and 5 endings.",
+      "path": "Samples~/FullSample"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "name": "StoryEngine.Core.Editor",
+    "rootNamespace": "StoryEngine.Core.Editor",
+    "references": [
+        "StoryEngine.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferenced": false
+}

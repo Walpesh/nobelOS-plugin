@@ -1,0 +1,14 @@
+{
+    "name": "StoryEngine.Core",
+    "rootNamespace": "StoryEngine.Core",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferenced": false
+}
