@@ -2,7 +2,7 @@
 
 **Data-driven движок историй для Unity: визуальные новеллы и choice-driven игры без программирования.**
 
-Купил историю → написал её в данных → собрал билд. Код не нужен.
+Купил плагин → развернул игру → собрал билд. Код не нужен.
 
 ![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black) ![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
